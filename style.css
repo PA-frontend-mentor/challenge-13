@@ -145,7 +145,7 @@ body main .right-section > button:focus {
     gap: 50px;
   }
   body main .left-section > img {
-    max-width: 670px;
+    max-width: 600px;
   }
   body main .right-section {
     text-align: center;
